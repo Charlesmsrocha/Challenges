@@ -1,1 +1,3 @@
-# Beginner HTNL Challenges
+# Beginner HTML Challenges
+
+My resolutions to HTML exercises.
